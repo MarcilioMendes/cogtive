@@ -18,7 +18,6 @@ namespace Apontamentos
             }
             catch (Exception e)
             {
-                //Console.WriteLine(e.Message);
             }
             finally
             {
